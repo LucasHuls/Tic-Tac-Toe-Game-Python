@@ -11,7 +11,7 @@ This is a simple Python-based Tic Tac Toe game that allows two players to play o
 
 1. Clone this repository: `git clone https://github.com/your-username/tic-tac-toe.git`
 2. Navigate to the directory: `cd tic-tac-toe`
-3. Run the game: `python game.py`
+3. Run the game: `python main.py`
 4. Enter the names of the two players when prompted.
 5. Take turns to choose a number between 1 to 9 to place your marker on the board.
 6. The game continues until one of the players wins or there is a draw.
